@@ -5,7 +5,7 @@ import numpy as np
 def Gauss_Seidel(A, B, L):
     #elementy na głównej przekątnej nie mogą być zerowe
     #mamy macierz z num_eq wierszami i num_of_x niewiadomymi
-    #zakładamy zerowy wektor początkowy x=[0 0 0 ...]^T
+    #zakładamy zerowy wektor początkowy x=[0 0 0 ...]^T.
 
     #modyfikacja Gaussa-Seidela wykorzystująca
     #wartosc lambda by z większą lub mniejszą wagą
