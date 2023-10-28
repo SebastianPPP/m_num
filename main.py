@@ -9,7 +9,7 @@ def Gauss_Seidel(A, B):
     #zakładamy zerowy wektor początkowy x=[0 0 0 ...]^T
     num_of_rows = A.shape[0]
     X = np.zeros(num_of_rows)
-    for j in range(1):
+    for j in range(5):
         for k in range(num_of_rows):
             sum = 0
             for l in range(num_of_rows):
@@ -28,3 +28,5 @@ B = np.array([7.85, -19.3, 71.4])
 B1 = B.T
 
 print(Gauss_Seidel(A,B1))
+
+## Do zrobienia relaksacja
