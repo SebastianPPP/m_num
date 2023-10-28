@@ -1,4 +1,4 @@
-[h1] Metody numeryczne [/h1]
+***** Metody numeryczne *****
 
 1. Metody iteracyjne
    - Gaussa-Seidela
