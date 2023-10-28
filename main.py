@@ -36,5 +36,5 @@ A = np.array([
 
 B = np.array([7.85, -19.3, 71.4])
 B1 = B.T
-
+#ww
 print(Gauss_Seidel(A,B1, 1))
