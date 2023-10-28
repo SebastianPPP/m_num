@@ -1,5 +1,5 @@
-Metody numeryczne
-1. Metody iteracyjne
+**Metody numeryczne**
+*1. Metody iteracyjne*
    - Gaussa-Seidela
    - Bisekcji
-2. ...
+*2. ...*
